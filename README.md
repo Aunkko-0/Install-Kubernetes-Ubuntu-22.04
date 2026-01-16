@@ -26,3 +26,4 @@ sudo hostnamectl set-hostname "control-plane" หรือ "master-node"
 exec bash
 ```
 3. เพิ่ม 
+33333
