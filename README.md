@@ -1,7 +1,7 @@
 # Install-Kubernetes-Ubuntu-22.04
 # ส่วนใหญ่จะประกอบด้วย 
-# - 1 Master Node
-# - 2 Worket Node
+### - 1 Master Node
+### - 2 Worket Node
 ---
 1. Disable Swap (ทั้ง Worker และ Master)
 ```
